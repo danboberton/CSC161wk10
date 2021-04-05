@@ -1,5 +1,5 @@
 // Dan Butcher
-// Week 10 Homework
+// Week 9 Homework
 // 4/4/21
 
 import java.util.Arrays;
